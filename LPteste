@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programa de Emagrecimento em 45 Dias</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+        }
+        header, footer {
+            background-color: #007bff;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            font-size: 1.2em;
+        }
+        .intro, .benefits, .testimonials, .cta, .guarantee, .details, .urgency, .faqs {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .intro p, .benefits ul, .testimonials p, .guarantee p, .details ul, .urgency p, .faqs ul {
+            font-size: 1.1em;
+            line-height: 1.6em;
+        }
+        .benefits ul, .details ul, .faqs ul {
+            list-style: none;
+            padding: 0;
+        }
+        .benefits li, .details li, .faqs li {
+            margin: 10px 0;
+            padding: 10px;
+            border-left: 5px solid #007bff;
+        }
+        .cta button, .urgency button {
+            background-color: #28a745;
+            color: #fff;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .cta button:hover, .urgency button:hover {
+            background-color: #218838;
+        }
+        footer p {
+            margin: 5px 0;
+        }
+        .social-icons img {
+            width: 30px;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Transforme Seu Corpo em 45 Dias: Programa de Emagrecimento Rápido e Eficiente!</h1>
+        <p>Descubra como perder peso em apenas 20 minutos por dia, sem precisar sair de casa!</p>
+    </header>
+
+    <div class="container">
+        <div class="intro">
+            <h2>Você está pronto para a mudança?</h2>
+            <p>Você já tentou de tudo para emagrecer e nada funcionou? O nosso programa é diferente! Com treinos rápidos e eficazes, você pode transformar seu corpo em apenas 45 dias. E o melhor: não precisa de nenhum equipamento especial, apenas itens que você já tem em casa. Está pronto para a mudança?</p>
+        </div>
+
+        <div class="emotional-appeal">
+            <h2>Imagine-se assim:</h2>
+            <p>Imagine vestir aquela roupa que você ama e sentir-se incrível novamente.</p>
+            <p>Emagreça com saúde e ganhe mais energia para aproveitar a vida!</p>
+            <p>Deixe para trás a frustração e a insegurança. Seja a melhor versão de você mesmo!</p>
+        </div>
+
+        <div class="benefits">
+            <h2>Benefícios do Programa</h2>
+            <ul>
+                <li>✔️ Treinos diários de 20 minutos que se encaixam na sua rotina</li>
+                <li>✔️ Sem necessidade de equipamentos caros</li>
+                <li>✔️ Plano alimentar acessível e fácil de seguir</li>
+                <li>✔️ Perda de peso garantida com resultados visíveis em 45 dias</li>
+                <li>✔️ Suporte online e dicas exclusivas para manter a motivação</li>
+            </ul>
+        </div>
+
+        <div class="testimonials">
+            <h2>Depoimentos de Sucesso</h2>
+            <p>Veja o que nossos clientes têm a dizer sobre o programa!</p>
+            <p>"Eu nunca acreditei que conseguiria emagrecer até encontrar este programa. Em 45 dias, perdi 10 kg e me sinto mais confiante do que nunca!" - Maria S.</p>
+        </div>
+
+        <div class="cta">
+            <h2>Pronto para começar?</h2>
+            <button>COMECE AGORA E TRANSFORME SUA VIDA!</button>
+            <p>Garanta seu acesso agora e comece a ver resultados em poucos dias!</p>
+        </div>
+
+        <div class="guarantee">
+            <h2>Garantia e Prova Social</h2>
+            <p>Satisfação garantida ou seu dinheiro de volta!</p>
+            <p>Se você não ver resultados em 45 dias, devolvemos o seu dinheiro sem perguntas.</p>
+            <p>Mais de 1.000 pessoas já transformaram suas vidas com o nosso programa!</p>
+            <p>Junte-se a uma comunidade de sucesso e veja a diferença!</p>
+        </div>
+
+        <div class="details">
+            <h2>Detalhes do Programa</h2>
+            <ul>
+                <li>📅 Calendário de treinos diários</li>
+                <li>🍎 Plano alimentar simples e nutritivo</li>
+                <li>💪 Exercícios detalhados com vídeos explicativos</li>
+                <li>📲 Suporte via WhatsApp e grupo exclusivo no Facebook</li>
+            </ul>
+        </div>
+
+        <div class="urgency">
+            <h2>Não perca essa oportunidade!</h2>
+            <p>Vagas limitadas! Não perca a oportunidade de transformar seu corpo agora!</p>
+            <p>Oferta especial por tempo limitado! Inscreva-se antes que as vagas se esgotem!</p>
+            <button>INSCRIÇÃO RÁPIDA</button>
+        </div>
+
+        <div class="faqs">
+            <h2>Perguntas Frequentes</h2>
+            <ul>
+                <li><strong>Preciso de equipamentos caros?</strong> Não! Nosso programa utiliza itens que você já tem em casa.</li>
+                <li><strong>Qual é a duração dos treinos?</strong> Apenas 20 minutos por dia!</li>
+                <li><strong>E se eu não conseguir acompanhar?</strong> Nosso suporte está aqui para te ajudar a cada passo do caminho.</li>
+            </ul>
+        </div>
+    </div>
+
+    <footer>
+        <p>Dúvidas? Entre em contato conosco!</p>
+        <p>Email: contato@emagrecimento45dias.com | Telefone: (XX) XXXX-XXXX</p>
+        <div class="social-icons">
+            <a href="#"><img src="icon-facebook.png" alt="Facebook"></a>
+            <a href="#"><img src="icon-instagram.png" alt="Instagram"></a>
+            <a href="#"><img src="icon-twitter.png" alt="Twitter"></a>
+        </div>
+    </footer>
+</body>
+</html>
